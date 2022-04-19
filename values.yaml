@@ -81,7 +81,7 @@ affinity: {}
 wallarm:
   image:
     repository: wallarm/node
-    tag: 3.6-sidecar
+    tag: 3.7-sidecar
     pullPolicy: Always
   # Specify "us1.api.wallarm.com" if you are using Wallarm's US Cloud, and
   # "api.wallarm.com" if you are using the European Cloud.
